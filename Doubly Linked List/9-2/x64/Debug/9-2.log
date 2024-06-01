@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(9-2.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  DLinkedList.cpp
+  DLinkedList.h
+  main.cpp
+  코드를 생성하고 있습니다...
+D:\2023-2\c++\Doubly Linked List\9-2\DLinkedList.cpp(26): warning C4715: 'DLinkedList::empty': 모든 제어 경로에서 값을 반환하지는 않습니다.
+x64\Debug\DLinkedList.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  9-2.vcxproj -> D:\2023-2\c++\Doubly Linked List\x64\Debug\Doubly Linked List.exe

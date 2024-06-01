@@ -1,0 +1,46 @@
+﻿  main.cpp
+  SLinkedList.h
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(12,26): error C3856: 'SLinkedList': 기호가 클래스 템플릿이(가) 아닙니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(13,2): message : 컴파일되는 클래스 템플릿 인스턴스화 'SNode<E>'에 대한 참조를 확인하세요.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(12,1): error C2098: 데이터 멤버 'E' 뒤에 예기치 않은 토큰이 있습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(12,28): error C2059: 구문 오류: '>'
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(16,1): error C2989: 'SLinkedList': 클래스 템플릿이(가) 이미 비클래스 템플릿(으)로 선언되었습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(12,15): message : 'SLinkedList' 선언을 참조하십시오.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(15,1): error C3857: 'SLinkedList': 여러 개의 템플릿 매개 변수 목록을 사용할 수 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(30,12): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(30,12): error C2059: 구문 오류: '<'
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(31,8): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(31,14): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(31,14): error C2059: 구문 오류: '{'
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(31,14): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(31,14): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(34,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(34,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(34,17): error C2059: 구문 오류: '<'
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(35,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(35,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(40,1): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(40,1): error C2059: 구문 오류: ''symbol''
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(40,18): error C2523: '::~SLinkedList': 소멸자 태그가 일치하지 않습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(40,18): error C2039: '{dtor}': '`global namespace''의 멤버가 아닙니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(41,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(41,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(46,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(46,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(46,6): error C2182: 'SLinkedList': 이 'void' 사용은 유효하지 않습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(46,6): error C2371: 'SLinkedList': 재정의. 기본 형식이 다릅니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(34,6): message : 'SLinkedList' 선언을 참조하십시오.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(46,17): error C2059: 구문 오류: '<'
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(46,22): error C2039: 'addFront': '`global namespace''의 멤버가 아닙니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(46,43): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(46,43): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(58,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(58,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(58,6): error C2182: 'SLinkedList': 이 'void' 사용은 유효하지 않습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(58,6): error C2371: 'SLinkedList': 재정의. 기본 형식이 다릅니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(34,6): message : 'SLinkedList' 선언을 참조하십시오.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(58,17): error C2059: 구문 오류: '<'
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(58,22): error C2039: 'removeFront': '`global namespace''의 멤버가 아닙니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(58,36): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\PROJECT_SLL\PROJECT_SLL\SLinkedList.h(58,36): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  코드를 생성하고 있습니다...

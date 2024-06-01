@@ -1,0 +1,97 @@
+﻿  main.cpp
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(11,26): error C3856: 'SLinkedList': 기호가 클래스 템플릿이(가) 아닙니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(12,2): message : 컴파일되는 클래스 템플릿 인스턴스화 'SNode<E>'에 대한 참조를 확인하세요.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(11,1): error C2098: 데이터 멤버 'E' 뒤에 예기치 않은 토큰이 있습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(11,28): error C2059: 구문 오류: '>'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(15,1): error C2989: 'SLinkedList': 클래스 템플릿이(가) 이미 비클래스 템플릿(으)로 선언되었습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(11,15): message : 'SLinkedList' 선언을 참조하십시오.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(14,1): error C3857: 'SLinkedList': 여러 개의 템플릿 매개 변수 목록을 사용할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(29,12): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(29,12): error C2059: 구문 오류: '<'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(30,8): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(30,13): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(30,13): error C2059: 구문 오류: '{'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(30,13): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(30,13): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(33,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(33,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(33,17): error C2059: 구문 오류: '<'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(34,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(34,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(39,1): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(39,1): error C2059: 구문 오류: ''symbol''
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(39,18): error C2523: '::~SLinkedList': 소멸자 태그가 일치하지 않습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(39,18): error C2039: '{dtor}': '`global namespace''의 멤버가 아닙니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(40,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(40,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,6): error C2182: 'SLinkedList': 이 'void' 사용은 유효하지 않습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,6): error C2371: 'SLinkedList': 재정의. 기본 형식이 다릅니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(33,6): message : 'SLinkedList' 선언을 참조하십시오.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,17): error C2059: 구문 오류: '<'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,22): error C2039: 'addFront': '`global namespace''의 멤버가 아닙니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,43): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,43): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,6): error C2182: 'SLinkedList': 이 'void' 사용은 유효하지 않습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,6): error C2371: 'SLinkedList': 재정의. 기본 형식이 다릅니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(33,6): message : 'SLinkedList' 선언을 참조하십시오.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,17): error C2059: 구문 오류: '<'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,22): error C2039: 'removeFront': '`global namespace''의 멤버가 아닙니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,36): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,36): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\templinkedList\linkedList\main.cpp(14,14): error C2275: 'std::string': 형식 대신 식이 필요합니다.
+D:\2023-2\c++\templinkedList\linkedList\main.cpp(14,22): error C2065: 'school': 선언되지 않은 식별자입니다.
+D:\2023-2\c++\templinkedList\linkedList\main.cpp(15,14): error C2062: 예기치 않은 'double' 형식입니다.
+D:\2023-2\c++\templinkedList\linkedList\main.cpp(17,2): error C2065: 'school': 선언되지 않은 식별자입니다.
+D:\2023-2\c++\templinkedList\linkedList\main.cpp(18,2): error C2065: 'school_size': 선언되지 않은 식별자입니다.
+D:\2023-2\c++\templinkedList\linkedList\main.cpp(19,10): error C2065: 'school': 선언되지 않은 식별자입니다.
+D:\2023-2\c++\templinkedList\linkedList\main.cpp(20,10): error C2065: 'school': 선언되지 않은 식별자입니다.
+D:\2023-2\c++\templinkedList\linkedList\main.cpp(21,2): error C2065: 'school': 선언되지 않은 식별자입니다.
+  tempSLL..h
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(11,26): error C3856: 'SLinkedList': 기호가 클래스 템플릿이(가) 아닙니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(12,2): message : 컴파일되는 클래스 템플릿 인스턴스화 'SNode<E>'에 대한 참조를 확인하세요.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(11,1): error C2098: 데이터 멤버 'E' 뒤에 예기치 않은 토큰이 있습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(11,28): error C2059: 구문 오류: '>'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(15,1): error C2989: 'SLinkedList': 클래스 템플릿이(가) 이미 비클래스 템플릿(으)로 선언되었습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(11,15): message : 'SLinkedList' 선언을 참조하십시오.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(14,1): error C3857: 'SLinkedList': 여러 개의 템플릿 매개 변수 목록을 사용할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(29,12): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(29,12): error C2059: 구문 오류: '<'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(30,8): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(30,13): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(30,13): error C2059: 구문 오류: '{'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(30,13): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(30,13): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(33,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(33,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(33,17): error C2059: 구문 오류: '<'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(34,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(34,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(39,1): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(39,1): error C2059: 구문 오류: ''symbol''
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(39,18): error C2523: '::~SLinkedList': 소멸자 태그가 일치하지 않습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(39,18): error C2039: '{dtor}': '`global namespace''의 멤버가 아닙니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(40,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(40,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,6): error C2182: 'SLinkedList': 이 'void' 사용은 유효하지 않습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,6): error C2371: 'SLinkedList': 재정의. 기본 형식이 다릅니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(33,6): message : 'SLinkedList' 선언을 참조하십시오.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,17): error C2059: 구문 오류: '<'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,22): error C2039: 'addFront': '`global namespace''의 멤버가 아닙니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,43): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(45,43): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,17): error C2988: 템플릿 선언/정의를 인식할 수 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,17): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,6): error C2182: 'SLinkedList': 이 'void' 사용은 유효하지 않습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,6): error C2371: 'SLinkedList': 재정의. 기본 형식이 다릅니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(33,6): message : 'SLinkedList' 선언을 참조하십시오.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,17): error C2059: 구문 오류: '<'
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,22): error C2039: 'removeFront': '`global namespace''의 멤버가 아닙니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,36): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\2023-2\c++\templinkedList\linkedList\tempSLL..h(57,36): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  코드를 생성하고 있습니다...
